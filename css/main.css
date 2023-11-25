@@ -6500,3 +6500,32 @@ iframe {
 }
 /* END CARD NOMINAL PAGE */
 
+/* =============================== */
+
+/* CLASES DEL PERFIL  ADMINISTRADOR */
+.wrap-switch-btn-perfil {
+  /* background-color: pink; */
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.btn-switch-admin {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  border: none;
+}
+
+.label-switch-admin {
+  /* background-color: lightskyblue; */
+  margin-bottom: 0;
+  font-size: .75rem;
+  text-align: end;
+}
+
+.switch-admin {
+  /* background-color: lightgreen; */
+  height: 1.5rem;
+}
+/* END CLASES DEL PERFIL ADMINSITRADOR */
