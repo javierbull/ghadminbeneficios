@@ -6503,6 +6503,8 @@ iframe {
 /* =============================== */
 
 /* CLASES DEL PERFIL  ADMINISTRADOR */
+
+/* HEADER ADMIN */
 .wrap-switch-btn-perfil {
   /* background-color: pink; */
   display: flex;
@@ -6528,4 +6530,24 @@ iframe {
   /* background-color: lightgreen; */
   height: 1.5rem;
 }
+
+.label-switch-admin {
+  /* background-color: lightskyblue; */
+  margin-bottom: 0;
+  font-size: 1rem;
+  text-align: start;
+}
+
+.saldo-user-mobile .saldo-cliente-label {
+  font-size: .75rem;
+}
+
+.saldo-user-mobile .saldo-cliente-mobile {
+  font-weight: 600;
+}
+
+.info-user-menu-mobile .btn-switch-admin {
+  padding-left: 0;
+}
+/* END HEADER ADMIN */
 /* END CLASES DEL PERFIL ADMINSITRADOR */
