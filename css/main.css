@@ -6549,5 +6549,11 @@ iframe {
 .info-user-menu-mobile .btn-switch-admin {
   padding-left: 0;
 }
+
+.header-menu-mobile-gh {
+  /* background-color: pink; */
+  display: flex;
+  gap: .5rem;
+}
 /* END HEADER ADMIN */
 /* END CLASES DEL PERFIL ADMINSITRADOR */
